@@ -1,3 +1,3 @@
 # SOLID
 
-<img src="./diagramaClasse.png" width="128"/>
+<img src="./diagramaClasse.png" width="500"/>
